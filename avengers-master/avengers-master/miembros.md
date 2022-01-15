@@ -3,6 +3,7 @@
 * Black panther
 * Black Widow
 * Capitán America
+* Elimine a la capitana
 * Falcon
 * Hank Pym
 * Hawkeye
